@@ -9,4 +9,4 @@ if enteredPassword == password:
 	access = True
 	print 'Access granted.'
 else:
-	'DENIED'
+	print 'DENIED'
