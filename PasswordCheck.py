@@ -3,7 +3,7 @@ password = passwordFile.read()
 
 access = False
 
-enteredPassword = raw_input('Enter password: )
+enteredPassword = raw_input('Enter password: ')
 
 if enteredPassword == password:
 	access = True
